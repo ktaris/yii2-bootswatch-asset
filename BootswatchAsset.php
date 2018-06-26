@@ -1,5 +1,5 @@
 <?php
-namespace raoul2000\bootswatch;
+namespace ktaris\bootswatch;
 
 use Yii;
 use yii\web\AssetBundle;
@@ -8,7 +8,7 @@ use yii\base\InvalidCallException;
 
 /**
  * Asset bundle around the Bootswatch theme for bootstrap.
- * Use raoul2000\bootswatch\BootswatchAsset::$theme = 'cyborg' to enable the "Cyborg" theme.
+ * Use ktaris\bootswatch\BootswatchAsset::$theme = 'cyborg' to enable the "Cyborg" theme.
  *
  * @see http://bootswatch.com/
  * @author Raoul
