@@ -16,7 +16,7 @@ use yii\base\InvalidCallException;
  */
 class BootswatchAsset extends AssetBundle
 {
-	const VENDOR_ALIAS = '@vendor/thomaspark/bootswatch';
+	const VENDOR_ALIAS = '@vendor/thomaspark/bootswatch/dist/';
 
 	public $sourcePath = BootswatchAsset::VENDOR_ALIAS;
 	/**
